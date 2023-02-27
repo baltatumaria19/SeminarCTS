@@ -9,7 +9,7 @@ public class Main {
 
 
         MatrixDataHandler mH = new MatrixDataHandler(5, 7, "matrix.txt");
-        mH.modifyValueAndUpdateFile("matrix.txt", 3, 4, 345);
+        mH.modifyValueAndUpdateFile("matrix.txt", 3, 4, 115);
     }
 }
 
